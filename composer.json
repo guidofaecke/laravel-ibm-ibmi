@@ -26,7 +26,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^7.3",
+        "php": "^7.3 || ^8.0",
         "zendtech/ibmitoolkit": "^1.9.0",
         "guidofaecke/laravel-ibm-db2": "^8.0",
         "laravel/framework": "^8.0"
